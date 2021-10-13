@@ -50,7 +50,7 @@ looking up and recording nearby venues. They included: Neighborhood, Latitude, a
 
 Longitude.
 
-![alt text](https://github.com/ay3xqa/Coursera_Capstone/blob/main/img/img1.png?raw=true)
+![alt text](https://github.com/ay3xqa/Coursera_Capstone/blob/main/img/img2.png?raw=true)
 
 
 
@@ -59,6 +59,7 @@ To ensure that the coordinates made qualitative sense with its nearby New Orlean
 created a map primitive map using folium, marking each neighborhood with its reported
 
 coordinates.
+![alt text](https://github.com/ay3xqa/Coursera_Capstone/blob/main/img/img4.png?raw=true)
 
 Because of the due diligence in the web scraping phase, there was less preprocessing of the
 
@@ -95,6 +96,7 @@ industry locational data, I should limit the scope of the venues. Thus, I compil
 venues that specifically belonged to the mentioned industries and made those the possible
 
 venues to cluster by. The result of that dataframe is picture below:
+![alt text](https://github.com/ay3xqa/Coursera_Capstone/blob/main/img/img1.png?raw=true)
 
 With this done I was almost done with the dataframe to be fitted on by the machine learning
 
@@ -123,6 +125,7 @@ and easy to implement cluster algorithm which is why I chose to use it in my pro
 Using k=5 clusters I was able to fit it among my cleaned data and then used folium to create
 
 a clustered map that color coded the fitted clusters.
+![alt text](https://github.com/ay3xqa/Coursera_Capstone/blob/main/img/img3.png?raw=true)
 
 **4. Results and Discussion**
 
