@@ -50,7 +50,7 @@ looking up and recording nearby venues. They included: Neighborhood, Latitude, a
 
 Longitude.
 
-![alt text](../Coursera_Capstone/edit/main/img/img1.png?raw=true)
+![alt text](../Coursera_Capstone/blob/main/img/img1.png?raw=true)
 
 
 
