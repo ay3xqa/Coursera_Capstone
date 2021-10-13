@@ -1,10 +1,10 @@
 
 
-Hospitality and Food Industry Data Analysis of New Orleans
+<h1 align="center">Hospitality and Food Industry Data Analysis of New Orleans
+</h1>
+<h2 align="center">Alex Yu</h2>
 
-Alex Yu
-
-December 11th 2020
+<h2 align="center">December 11th 2020</h2>
 
 **1. Introduction**
 
